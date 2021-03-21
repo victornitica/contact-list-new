@@ -1,0 +1,9 @@
+.cancel {
+    float: right;
+    cursor: pointer;
+}
+
+.new {
+    float: left;
+    margin-left: 10px;
+}
